@@ -1,0 +1,5 @@
+indice
+test_hash
+bench
+test_hash_asan
+*.o
